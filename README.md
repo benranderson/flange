@@ -1,3 +1,3 @@
 # flange
 
-Flange design calculations.
+Flange design calculations to ASME VIII.
